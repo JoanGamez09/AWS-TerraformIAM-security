@@ -62,12 +62,15 @@ This Terraform script (main.tf) sets up AWS IAM policies, users, groups, and rol
 2. **Administrator User** (`admin-lambda-user-joan`):
    - Successfully listed and read all objects.    
    - Successfully **edited** an object.
+     
   
      List lambda functions:
+     
      ![list1](https://github.com/user-attachments/assets/e4eaef8c-5c30-4903-a667-a172d91e752f)
 
 
      Edited an object:
+     
      ![admin](https://github.com/user-attachments/assets/6b3e8c4b-34d1-41be-b6cf-baab38ebb331)
 
 
